@@ -9,3 +9,9 @@ html::-webkit-scrollbar {
 html {
   scrollbar-width: none;
 }
+.hover\:text-custom-color:hover {
+  color: #ffc100;
+}
+.bg-custom-color {
+  background-color: #dbafa0;
+}
